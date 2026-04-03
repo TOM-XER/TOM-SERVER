@@ -3,4 +3,4 @@
 
 
 
-srver=(.*?)=srver=ON
+srver=(ON)=srver
